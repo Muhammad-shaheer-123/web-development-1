@@ -1,2 +1,2 @@
 # web-development-1
-this repo contain javascript,html,css.
+This is my first programe.
