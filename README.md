@@ -1,3 +1,3 @@
 # web-development-1
-this repo contain javascript,html,css.
-there is something special.
+This is my first programe.
+i am very exicited to learn new skill.
